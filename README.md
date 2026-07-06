@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
