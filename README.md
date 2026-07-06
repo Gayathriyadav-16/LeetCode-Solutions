@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -26,6 +27,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
