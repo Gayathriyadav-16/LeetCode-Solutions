@@ -39,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
