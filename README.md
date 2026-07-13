@@ -40,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
