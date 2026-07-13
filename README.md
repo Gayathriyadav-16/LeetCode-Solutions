@@ -37,6 +37,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
