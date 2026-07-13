@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
