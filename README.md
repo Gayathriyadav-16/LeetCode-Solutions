@@ -89,6 +89,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
