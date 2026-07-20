@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
