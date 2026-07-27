@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
