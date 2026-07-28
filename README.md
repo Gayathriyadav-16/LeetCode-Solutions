@@ -26,6 +26,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@
 | [0054-spiral-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -88,6 +91,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
