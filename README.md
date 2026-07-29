@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
