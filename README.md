@@ -51,6 +51,7 @@
 | [0054-spiral-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -105,6 +106,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -137,4 +139,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
