@@ -46,6 +46,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
@@ -132,4 +134,5 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
