@@ -54,6 +54,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -114,6 +115,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
