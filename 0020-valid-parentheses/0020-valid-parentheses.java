@@ -1,9 +1,10 @@
 import java.util.Stack;
-
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
-        for (char ch : s.toCharArray()) {
+        char ar[] = s.toCharArray();
+        for(int i=0;i<ar.length;i++) {
+             char ch = ar[i];
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } 
