@@ -8,8 +8,6 @@ class Solution {
             }
         }
         String s = new String(ar);
-        return Integer.parseInt(s);
-
-        
+        return Integer.parseInt(s);   
     }
 }
