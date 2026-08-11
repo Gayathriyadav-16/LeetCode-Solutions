@@ -10,20 +10,52 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> st = new Stack<>();
-        ListNode temp = head;
-        while(temp != null){
-            st.push(temp.val);
-            temp = temp.next;
+        // Stack<Integer> st = new Stack<>();
+        // ListNode temp = head;
+        // while(temp != null){
+        //     st.push(temp.val);
+        //     temp = temp.next;
+        // }
+        // temp = head;
+        // while(!st.isEmpty()){                 //or while(temp != null){
+        //     if(temp.val != st.peek()){        //    if(temp.val != st.pop()){ 
+        //         return false;                 //        return false;
+        //     }                                 //     }
+        //     temp = temp.next;                 //     temp = temp.next;
+        //     st.pop();                         // }
+        // }
+        // return true;
+        if(head == null || head.next == null)
+        {
+            return true;
         }
-        temp = head;
-        while(!st.isEmpty()){
-            if(temp.val != st.peek()){
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }    
+        ListNode secondhalf = reverse(slow);
+        ListNode firsthalf = head;
+        while(secondhalf != null){
+            if(firsthalf.val != secondhalf.val){
                 return false;
             }
-            temp = temp.next;
-            st.pop();
+            firsthalf = firsthalf.next;
+            secondhalf = secondhalf.next;
         }
-        return true;    
+        return true;
+    }
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode temp = head;
+        while(temp!=null){
+            ListNode next = temp.next;
+            temp.next =  prev;
+            prev = temp;
+            temp = next;
+        }
+        head = prev;
+        return head;
     }
 }
