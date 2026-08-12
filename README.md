@@ -8,6 +8,7 @@
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1323-maximum-69-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -68,6 +69,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -120,6 +122,7 @@
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -203,4 +207,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
