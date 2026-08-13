@@ -186,6 +186,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -211,4 +212,16 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
