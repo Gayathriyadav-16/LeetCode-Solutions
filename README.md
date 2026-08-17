@@ -40,6 +40,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 ## Recursion
 |  |
@@ -67,6 +68,7 @@
 | [0162-find-peak-element](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -92,6 +94,7 @@
 | [0088-merge-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Sorting
@@ -154,6 +157,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
@@ -217,6 +221,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Tree
 |  |
@@ -237,4 +242,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
