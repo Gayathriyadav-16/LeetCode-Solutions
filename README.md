@@ -83,6 +83,7 @@
 | [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2574-left-and-right-sum-differences](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0054-spiral-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,4 +233,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
