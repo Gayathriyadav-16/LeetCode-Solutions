@@ -84,6 +84,7 @@
 | [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2401-longest-nice-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2574-left-and-right-sum-differences](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3452-sum-of-good-numbers](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3731-find-missing-elements](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
