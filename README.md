@@ -26,6 +26,7 @@
 | [0344-reverse-string](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3941-password-strength](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3941-password-strength) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -119,6 +120,7 @@
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
