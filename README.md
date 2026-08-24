@@ -58,6 +58,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
