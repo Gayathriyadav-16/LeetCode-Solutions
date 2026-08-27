@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -144,6 +145,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
