@@ -169,6 +169,7 @@
 | [0035-search-insert-position](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Enumeration
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gayathriyadav-16/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
